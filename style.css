@@ -22,6 +22,7 @@ h1 {
 }
 
 #latitude, #longitude, #tuple, #distance {
+  touch-action: manipulation;
   position: relative;
   overflow: hidden;
   width: 100%;
